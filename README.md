@@ -14,4 +14,4 @@ La cual obtendra los datos del json [caracteres](https://rickandmortyapi.com/api
 
 #    [Demo](https://rickm0rty.netlify.app/)
 
-##   [Version con Angular](https://angular-api-rickandmorty.netlify.app/)
+##   [Version con Angular](https://github.com/mssj-11/consumoAPImorty)
