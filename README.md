@@ -12,4 +12,6 @@ La cual obtendra los datos del json [caracteres](https://rickandmortyapi.com/api
     <img src="./img/preview.png" alt="">
 </p>
 
-[Demo](https://rickm0rty.netlify.app/)
+#    [Demo](https://rickm0rty.netlify.app/)
+
+##   [Version con Angular](https://angular-api-rickandmorty.netlify.app/)
